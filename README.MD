@@ -3,7 +3,7 @@
 
 This file template sets up the `webpack` configuration and installs the `npm` packages required to get Material Components for the Web up and running. It simply displays a Material button that says "Hello World"!
 
-- View it on [GitHub Pages](https://sharmasunny.github.io/MATERIAL-DESIGN-Starter-Kit-With-Typescript/)
+- View it on [GitHub Pages](https://sharmasunny.github.io/material-desigin-starter-kit-with-typescript)
 
 ## Build this project
 
